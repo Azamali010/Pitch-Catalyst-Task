@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/vector"
+        />
+    <item
+        android:id="@+id/bottom_chat"
+        android:title="CHAT"
+        android:icon="@drawable/chat"
+        />
+    <item
+        android:title=""
+        android:enabled="true"
+
+        />
+    <item
+        android:id="@+id/bottom_shopping"
+        android:title="CART"
+        android:icon="@drawable/shoppingbag"
+        />
+    <item
+        android:id="@+id/bottom_profile"
+        android:title="PROFILE"
+        android:icon="@drawable/user"
+        />
+
+</menu>
